@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+  background-color: blue;
+  text-align: center;
+  padding: 15px;
+}
+footer {
+  background-color: blue;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
+html {
+  min-height: 100%;
+  position: relative;
+}
+body {
+  margin: 0;
+  margin-bottom: 40px;
+  background-color: yellow;
+}
